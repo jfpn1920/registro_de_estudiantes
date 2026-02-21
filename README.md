@@ -7,7 +7,7 @@ Este proyecto consiste en el desarrollo de un **registro de estudiantes en conso
 
 El sistema funciona de manera interactiva, solicitando los nombres uno a uno hasta que el usuario escriba la palabra **"salir"**, momento en el cual se detiene el proceso de ingreso y se muestran todos los estudiantes registrados.
 
-El objetivo principal del proyecto es reforzar el uso de **listas**, **bucles** y **entrada de datos**, además de mejorar la comprensión del control de flujo en programas interactivos y la manipulación básica de colecciones en Python.
+El objetivo principal del proyecto es reforzar el uso de listas, bucles y entrada de datos, además de mejorar la comprensión del control de flujo en programas interactivos y la manipulación básica de colecciones en Python. Asimismo, busca fortalecer la capacidad de organizar información ingresada por el usuario, manejar procesos repetitivos de forma eficiente y presentar los datos de manera ordenada en la consola.
 
 #
 ### 🧑‍💻 Lenguaje de programacion
